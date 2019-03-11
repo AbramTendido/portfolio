@@ -1,11 +1,10 @@
 # Site settings
-title: portfolYOU
+title: Portfolio
 description: >- # this means to ignore newlines until "baseurl:"
-  Always code as if the guy who ends up maintaining your code
-  will be a violent psychopath who knows where you live.
-baseurl: "/portfolYOU"  # the subpath of your site, e.g. /blog
+  Hello this is my homepage.
+baseurl: "/portfolio"  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: YoussefRaafatNasry/portfolYOU
+# repository: YoussefRaafatNasry/portfolYOU
 
 
 # Build settings
@@ -16,13 +15,13 @@ markdown: kramdown
 
 # Author Info
 author:
-  name     : John Doe
+  name     : Abram Tendido
   image    : https://i2.cdn.turner.com/cnnnext/dam/assets/140926165711-john-sutter-profile-image-large-169.jpg
-  email    : username@xyz.com
-  github   : username
-  twitter  : username
-  linkedin : username
-  facebook : username
+  email    : abram.tendido@protonmail.com
+  # github   : username
+  # twitter  : username
+  # linkedin : username
+  # facebook : username
 
 
 # Collections
