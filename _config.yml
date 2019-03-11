@@ -16,7 +16,7 @@ markdown: kramdown
 # Author Info
 author:
   name     : Abram Tendido
-  image    : https://i2.cdn.turner.com/cnnnext/dam/assets/140926165711-john-sutter-profile-image-large-169.jpg
+  image    : http://cdn.iphonehacks.com/wp-content/uploads/2014/07/Pokemon-5.png #https://i2.cdn.turner.com/cnnnext/dam/assets/140926165711-john-sutter-profile-image-large-169.jpg
   email    : abram.tendido@protonmail.com
   # github   : username
   # twitter  : username
