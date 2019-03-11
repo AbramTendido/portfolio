@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Elements
 permalink: /elements/
@@ -486,4 +486,4 @@ This line is only separated by a single newline, so it's a separate line in the 
 <footer>
   This page is <b>open source</b>. Noticed a typo? <br>
   Or something unclear? Improve it on {% github_edit_link "GitHub" %}.
-</footer>
+</footer> -->
