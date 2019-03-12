@@ -8,7 +8,7 @@ weight: 2
 # **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
-I am Developer with a focus on Game Devvelopment.
+I am Developer with a focus on Game Development.
 
 <div class="row">
 {% include skills.html title="Programming Skills" source=site.data.programming-skills %}
