@@ -2,11 +2,9 @@
   # percentage: 95
   color: info
 
-# - name: Visual Code
-  # percentage: 90
+- name: Adobe Photoshop
   color: success
 
-- name: Adobe Photoshop
-  color: dark
 
 - name: Autodesk Maya
+  color: dark
