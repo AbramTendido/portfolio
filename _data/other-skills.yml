@@ -1,11 +1,12 @@
 - name: Unity3D
   # percentage: 95
-  # color: info
+  color: info
 
 # - name: Visual Code
   # percentage: 90
-  # color: success
+  color: success
 
 - name: Adobe Photoshop
+  color: dark
 
 - name: Autodesk Maya
