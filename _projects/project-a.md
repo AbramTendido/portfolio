@@ -1,6 +1,6 @@
 ---
 name: Periculum
-tools: [C#, Unity, Maya, SketchUp, Photoshop]
+tools: [C#, Unity, Maya, SketchUp, Photoshop, Audacity]
 image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a57f5150822787.5b30ff15d158e.png
 description: A 3D horror game. You end up awake in an unknown place find out what this place is all about.
 ---
@@ -27,5 +27,5 @@ Programmer, 3D Artist, Sound Design, Game Design
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3f65d150822787.5b59753a1f1e2.png)
 
 <p class="text-center">
-{% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include button.html link="https://www.behance.net/gallery/50822787/GamePericulum" text="More Details" %}
 </p>
