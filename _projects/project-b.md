@@ -25,9 +25,9 @@ description: A 3D survival and building game where you handle thirst and hunger 
 Role in Project:
 Programmer, 3D Artist
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/185b8d50821951.5b59611be7fe6.jpg)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/9f1f8d50821951.5b59611be572a.jpg)
 
 <p class="text-center">
-<i class="fab fa-1x fa-behance-square"></i>
-{% include button.html link="https://www.behance.net/gallery/50821951/GameThe-Survivalist" text="More Details" %}
+<i class="fab fa-1x fa-behance-square"> % include button.html link="https://www.behance.net/gallery/50821951/GameThe-Survivalist"</i>
+<!-- {% include button.html link="https://www.behance.net/gallery/50821951/GameThe-Survivalist" text="More Details" %} -->
 </p>
