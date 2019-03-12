@@ -27,5 +27,7 @@ Programmer, 3D Artist, Sound Design, Game Design
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3f65d150822787.5b59753a1f1e2.png)
 
 <p class="text-center">
-{% include button.html link="https://www.behance.net/gallery/50822787/GamePericulum" text="More Details" %}
-</p>
+<a class ="" href="https://www.behance.net/gallery/50822787/GamePericulum">
+<i class="fab fa-1x fa-behance-square"></i> 
+<!-- {% include button.html link="https://www.behance.net/gallery/50822787/GamePericulum" text="More Details" %} -->
+<!-- </p> -->
