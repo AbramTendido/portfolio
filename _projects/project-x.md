@@ -1,9 +1,29 @@
 ---
-name: Project X
-tools: [Arduino Uno, Electronics]
-image: https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/1143356/1160/772/m1/fpnw/wm0/creativemarket_image_front-.png?1459611806&s=04d4f811ceed88ca4716fd2551e93a36
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Cafe Swift
+tools: [C#, Unity, Audacity, Photoshop]
+image: https://mir-s3-cdn-cf.behance.net/project_modules/1400/4d78e351794787.58f9ef01c342c.png
+description: Is a 2D arcade game where customers show up and you have to give them their orders (board games and food). It's a simple game like Diner Dash.
+# external_url: https://www.google.com
 ---
 
-# My awesome Project
+# Cafe Swift
+
+Description:
+Is a 2D arcade game where customers show up and you have to give them their orders (board games and food). It's a simple game like Diner Dash. You win by reaching Day 10 in the game.
+
+- Game made using Unity
+- Assets done in Adobe photoshop and illustrator
+- Sprite based Animation
+- Tile based map and environment
+- Different AI behavior depending on customer type
+
+Role in Project:
+Programmer, UI Artist
+
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/97915851794787.58f9ef01c2f02.png)
+
+
+<p class="text-center">
+<a class ="" href="https://www.behance.net/gallery/51794787/GameCafe-Swift">
+<i class="fab fa-1x fa-behance-square"></i> 
