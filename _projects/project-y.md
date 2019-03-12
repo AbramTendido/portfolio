@@ -16,10 +16,9 @@ Programmer, UI & 3D Artist
 
 ![](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/icon_2.jpg?itok=SpVYcr-W&timestamp=1517117474)
 
-
 <p class="text-center">
-<a class ="" href="https://globalgamejam.org/2018/games/isang-palayok-isang-pamalo-isang-libong-boses-one-pot-one-bat-one-thousand-voices">
-<i class="fab fa-1x fa-gamepad"></i> 
+{% include button.html link="https://globalgamejam.org/2018/games/isang-palayok-isang-pamalo-isang-libong-boses-one-pot-one-bat-one-thousand-voices" text="Game Jam Page" %}
+</p>
 
 # Steps Back
 
@@ -34,5 +33,5 @@ Programmer, Tile Mapper
 
 
 <p class="text-center">
-<a class ="" href="https://globalgamejam.org/2019/games/steps-back">
-<i class="fab fa-1x fa-gamepad"></i> 
+{% include button.html link="https://globalgamejam.org/2019/games/steps-back" text="Game Jam Page" %}
+</p>
