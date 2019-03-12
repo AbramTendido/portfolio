@@ -1,6 +1,6 @@
 ---
 name: Definite Dozer
-tools: [Android]
+tools: [Android, C#, Unity, DeltaDNA, AWS]
 image: https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0c25c76755871.5c73ba914606e.jpg
 description: A simple online 3D Dozer game.
 # external_url: https://www.google.com
@@ -25,7 +25,7 @@ Programmer
 
 <p class="text-center">
 <a class ="" href="https://www.behance.net/gallery/50821951/GameThe-Survivalist">
-<i class="fab fa-3x fa-behance-square"></i> 
+<i class="fab fa-1x fa-behance-square"></i> 
 <a class ="" href="https://play.google.com/store/apps/details?id=com.definitegaming.definitedozer&hl=en_US">
-<i class="fab fa-3x fa-google"></i> 
-</p>
+<i class="fab fa-1x fa-google"></i> 
+<!-- </p> -->
