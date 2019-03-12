@@ -1,19 +1,30 @@
 ---
-name: Project A
-tools: [C#, XML, WPF]
-image: https://thenextscoop.com/wp-content/uploads/2019/01/web-design-2019.jpg
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Periculum
+tools: [C#, Unity, Maya, SketchUp, Photoshop]
+image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a57f5150822787.5b30ff15d158e.png
+description: A 3D horror game. You end up awake in an unknown place find out what this place is all about.
 ---
 
-# Project A
+# Periculum
 
-Projects A is an awesome project! Just remove the direct link from the project's front matter and you will have an individual page like this for your project.
+- Game made using Unity
+- Assets done in Maya, SketchUp, Blender, Substance Painter  and Photoshop
+- Inventory System
+- 3D Sound and realistic environment
+- Sanity bar that is affected by what you encounter
+- Puzzles integrated with the environment
+- 3D character animations
+- Custom Shaders
+- Use of Post Processing Stack
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screen-shot-2018-05-01-at-11-30-23-am.png?w=1390&crop=1)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c2fc5750822787.5b597539a9926.png)
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screenshot-materialio.png)
+
+Role in Project:
+Programmer, 3D Artist, Sound Design, Game Design
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3f65d150822787.5b59753a1f1e2.png)
 
 <p class="text-center">
 {% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
