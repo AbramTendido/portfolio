@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Unity3D
+  # percentage: 95
+  # color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Visual Code
+  # percentage: 90
+  # color: success
+
+- name: Adobe Photoshop
+
+- name: Autodesk Maya
