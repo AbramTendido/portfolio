@@ -1,11 +1,11 @@
 - name: C#
   # percentage: 90
-  # color: danger
+  color: danger
 
 - name: C++
   # percentage: 80
-  # color:
+  color: green
 
 - name: HTML5/CSS
   # percentage: 70
-  # color: dark
+  color: dark
