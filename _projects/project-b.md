@@ -35,4 +35,4 @@ Programmer, 3D Artist
 <a class ="" href="https://www.behance.net/gallery/50821951/GameThe-Survivalist">
 <i class="fab fa-1x fa-behance-square"></i> fa-3x
 <!-- {% include button.html link="https://www.behance.net/gallery/50821951/GameThe-Survivalist" text="More Details" %} -->
-<!-- </p> -->
+</p>
