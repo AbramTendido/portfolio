@@ -18,7 +18,7 @@ Programmer, UI & 3D Artist
 
 
 <p class="text-center">
-<a class ="" href="https://www.behance.net/gallery/51794787/GameCafe-Swift">
+<a class ="" href="https://globalgamejam.org/2018/games/isang-palayok-isang-pamalo-isang-libong-boses-one-pot-one-bat-one-thousand-voices">
 <i class="fab fa-1x fa-gamepad"></i> 
 
 # Steps Back
@@ -34,5 +34,5 @@ Programmer, Tile Mapper
 
 
 <p class="text-center">
-<a class ="" href="https://www.behance.net/gallery/51794787/GameCafe-Swift">
+<a class ="" href="https://globalgamejam.org/2019/games/steps-back">
 <i class="fab fa-1x fa-gamepad"></i> 
