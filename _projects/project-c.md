@@ -16,6 +16,8 @@ description: A simple online 3D Dozer game.
 - Online Database
 - IAP
 
+Also programmed on various other projects for the company.
+
 Role in Project:
 Programmer
 
@@ -24,8 +26,10 @@ Programmer
 
 
 <p class="text-center">
-<a href="https://www.behance.net/gallery/50821951/GameThe-Survivalist"> <i class="fab fa-1x fa-behance-square"></i> 
+<a href="https://www.behance.net/gallery/76755871/GameDefinite-Dozer"> <i class="fab fa-1x fa-behance-square"></i> 
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.definitegaming.definitedozer&hl=en_US"> <i class="fab fa-1x fa-google"></i> 
+<a href="https://play.google.com/store/apps/developer?id=Definite+Gaming+Pte+Ltd"> <i class="fab fa-1x fa-google"></i> 
+</a>
+<a href="https://itunes.apple.com/us/developer/definite-gaming-pte-ltd/id908223844?mt=8"> <i class="fab fa-1x fa-apple"></i> 
 </a>
 <!-- </p> -->
