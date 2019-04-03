@@ -1,6 +1,6 @@
 - name: C#
   # percentage: 90
-  color: danger
+  color: info
 
 - name: C++
   # percentage: 80
