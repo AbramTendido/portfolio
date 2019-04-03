@@ -9,7 +9,7 @@ description: Is a 2D arcade game where customers show up and you have to give th
 # Cafe Swift
 
 Description:
-Is a 2D arcade game where customers show up and you have to give them their orders (board games and food). It's a simple game like Diner Dash. You win by reaching Day 10 in the game.
+A 2D arcade game where customers show up and you have to give them their orders (board games and food). It's a simple game like Diner Dash. You win by reaching Day 10 in the game.
 
 - Game made using Unity
 - Assets done in Adobe photoshop and illustrator
