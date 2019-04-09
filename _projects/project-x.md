@@ -23,6 +23,7 @@ Programmer, UI Artist
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/97915851794787.58f9ef01c2f02.png)
 
+More pictures on the links below.
 
 <p class="text-center">
 <a class ="" href="https://www.behance.net/gallery/51794787/GameCafe-Swift">
