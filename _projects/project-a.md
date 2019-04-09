@@ -17,15 +17,16 @@ description: A 3D horror game. You end up awake in an unknown place find out wha
 - Custom Shaders
 - Use of Post Processing Stack
 
+Role in Project:
+Programmer, 3D Artist, Sound Design, Game Design
+
+{% include video.html id="fxkH7SB04jQ" %}
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c2fc5750822787.5b597539a9926.png)
 
 
-Role in Project:
-Programmer, 3D Artist, Sound Design, Game Design
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3f65d150822787.5b59753a1f1e2.png)
-{% include video.html id="fxkH7SB04jQ" %}
+<!-- ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/3f65d150822787.5b59753a1f1e2.png) -->
 
 More pictures on the links below.
 <p class="text-center">
