@@ -1,8 +1,8 @@
 ---
-name: Definite Dozer
+name: Definite Gaming
 tools: [Android, C#, Unity, DeltaDNA, AWS]
 image: https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0c25c76755871.5c73ba914606e.jpg
-description: A simple online 3D Dozer game.
+description: Projects made with the company.
 # external_url: https://www.google.com
 ---
 
@@ -16,7 +16,6 @@ description: A simple online 3D Dozer game.
 - Online Database
 - IAP
 
-Also programmed on various other projects for the company.
 
 Role in Project:
 Programmer
@@ -24,6 +23,7 @@ Programmer
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/ac3a6476755871.5c73ba9146353.jpg)
 
+Also worked as a programmer on various other projects for the company. Check them out below.
 
 <p class="text-center">
 <a href="https://www.behance.net/gallery/76755871/GameDefinite-Dozer"> <i class="fab fa-1x fa-behance-square"></i> 
