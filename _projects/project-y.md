@@ -35,3 +35,5 @@ Programmer, Tile Mapper
 <p class="text-center">
 {% include button.html link="https://globalgamejam.org/2019/games/steps-back" text="Game Jam Page" %}
 </p>
+
+<a href="{{ site.baseurl }}/projects"> Go back to Projects</a>

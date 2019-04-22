@@ -26,9 +26,10 @@ Role in Project:
 Programmer, 3D Artist
 
 More pictures on the links below.
+<a href="{{ site.baseurl }}/projects"> or... go back to Projects</a>
 <p class="text-center">
 <a class ="" href="https://www.behance.net/gallery/50821951/GameThe-Survivalist">
-<i class="fab fa-1x fa-behance-square"></i> 
+<i class="fab fa-2x fa-behance-square"></i> 
 <!-- </p> -->
 <!-- {% include button.html link="https://www.behance.net/gallery/50821951/GameThe-Survivalist" text="More Details" %} -->
 <!-- </p> -->

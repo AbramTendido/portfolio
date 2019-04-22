@@ -24,12 +24,13 @@ Programmer
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/ac3a6476755871.5c73ba9146353.jpg)
 
 Also worked as a programmer on various other projects for the company. Check them out below.
+<a href="{{ site.baseurl }}/projects"> or... go back to Projects</a>
 
 <p class="text-center">
-<a href="https://www.behance.net/gallery/76755871/GameDefinite-Dozer"> <i class="fab fa-1x fa-behance-square"></i> 
+<a href="https://www.behance.net/gallery/76755871/GameDefinite-Dozer"> <i class="fab fa-2x fa-behance-square"></i> 
 </a>
-<a href="https://play.google.com/store/apps/developer?id=Definite+Gaming+Pte+Ltd"> <i class="fab fa-1x fa-google"></i> 
+<a href="https://play.google.com/store/apps/developer?id=Definite+Gaming+Pte+Ltd"> <i class="fab fa-2x fa-google"></i> 
 </a>
-<a href="https://itunes.apple.com/us/developer/definite-gaming-pte-ltd/id908223844?mt=8"> <i class="fab fa-1x fa-apple"></i> 
+<a href="https://itunes.apple.com/us/developer/definite-gaming-pte-ltd/id908223844?mt=8"> <i class="fab fa-2x fa-apple"></i> 
 </a>
 <!-- </p> -->
