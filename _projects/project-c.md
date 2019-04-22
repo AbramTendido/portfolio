@@ -23,8 +23,8 @@ Programmer
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/ac3a6476755871.5c73ba9146353.jpg)
 
-Also worked as a programmer on various other projects for the company. Check them out below.
-<a href="{{ site.baseurl }}/projects"> or... go back to Projects</a>
+Also worked as a programmer on various other projects for the company. Check them out below
+<a href="{{ site.baseurl }}/projects"> or... go back to Projects.</a>
 
 <p class="text-center">
 <a href="https://www.behance.net/gallery/76755871/GameDefinite-Dozer"> <i class="fab fa-2x fa-behance-square"></i> 
